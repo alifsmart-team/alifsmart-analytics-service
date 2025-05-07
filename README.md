@@ -9,3 +9,6 @@
 - weekly_progress -> perkembangan siswa
 - monthly_reports -> laporan institusi
 - badges -> kriteria lencana
+
+# dashboard :
+- admin dashboard
